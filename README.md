@@ -27,11 +27,14 @@ This is a Golang-based API that listens to Server-Sent Events (SSE) from a live 
 
 ## How to run the API
 
-Open terminal or bash and go to the project directory on your machine.
+Open terminal or bash.
 
 - Clone the repository using the command below
 ```bash
-git clone 
+git clone https://github.com/Myo-Khant11Aung/SSE_score_tracker.git
+```
+
+- Go into the project directory
 
 - Run the command below to install dependencies
 ```bash
