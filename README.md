@@ -29,6 +29,10 @@ This is a Golang-based API that listens to Server-Sent Events (SSE) from a live 
 
 Open terminal or bash and go to the project directory on your machine.
 
+- Clone the repository using the command below
+```bash
+git clone 
+
 - Run the command below to install dependencies
 ```bash
 go mod tidy
